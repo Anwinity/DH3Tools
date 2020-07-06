@@ -2,6 +2,7 @@ import ssl
 import websocket
 import json
 import datetime
+import os
 from sys import argv
 
 args = argv[1:]
